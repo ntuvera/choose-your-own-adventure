@@ -1,0 +1,9 @@
+As your deliverable, create a text file that answers the following questions:
+- One thing you learned about Spring that you didn't already know.
+	Spring bean scopes have 6 main types, but also custom thread attributed types.
+- One thing that surprised you about how Spring works.
+  Being able to use Bean scope only is possible and feels like the light-weight answer for a lot of microservices.
+- One thing you want to learn more about.
+  What would be the purpose of using custom scopes on beans, what are some good examples of separation of concerns.
+- One thing that confused you.
+  Without enough context, it's a bit confusing to understand how a server handles all the requests and where the resources are allocated.  Beans exist, but what are they, how are threads handled, and which is the best practice for handling low, mid, and high loads.
